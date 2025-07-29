@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:washclean_mitra/auth/register.dart';
+import 'package:washclean_mitra/features/auth/register_screen.dart';
 import 'package:washclean_mitra/pengaturan/pengaturan_screen.dart';
 import 'package:washclean_mitra/pesanan/pesanan.dart';
 import 'package:url_launcher/url_launcher.dart';

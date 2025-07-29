@@ -6,7 +6,7 @@ import 'package:washclean_mitra/model/layanan.dart';
 import 'package:washclean_mitra/model/data_pesanan.dart';
 
 class ApiService {
-  static const String baseUrl = 'https://87b42a2dc6d9.ngrok-free.app/api';
+  static const String baseUrl = 'https://e518126d6738.ngrok-free.app/api';
 
   // ========================
   /// Login Mitra

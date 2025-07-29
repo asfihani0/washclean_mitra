@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:washclean_mitra/home/home_screen.dart';
+import 'package:washclean_mitra/features/home/home_screen.dart';
 import 'package:washclean_mitra/pengaturan/edit_profile_screen.dart';
 import 'package:washclean_mitra/pengaturan/profil_screen.dart';
 import 'package:washclean_mitra/pengaturan/tentang_kami.dart';
